@@ -7,5 +7,5 @@ We had to make a city game app for mobile phones. We developed our project in io
 Combination of javascript(Angular) and html/css.
 
 ##### Credits:
--Sami Chkhachkhi
+-Sami Chkhachkhi  
 -Robert Zandberg
